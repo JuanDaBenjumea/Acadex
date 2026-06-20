@@ -132,6 +132,3 @@ Este es un proyecto académico en desarrollo activo. Estado actual por rol:
 - Exportación de reportes a PDF/Excel.
 - Externalizar la cadena de conexión fuera del control de versiones (por ejemplo, mediante variables de entorno o un archivo de configuración no versionado).
 
-## Licencia
-
-Este proyecto no especifica una licencia. Si deseas que el código sea reutilizable por terceros, considera añadir una licencia (por ejemplo, [MIT](https://choosealicense.com/licenses/mit/)).
